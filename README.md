@@ -8,5 +8,5 @@ This is purely educational for better understanding on how to work with `C` lang
 
 ```console
 $ cc -o main main.c
-$ ./main 68 + 70 * 2 /
+$ ./main 68 70 + 2 /
 ```
