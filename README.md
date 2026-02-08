@@ -7,6 +7,6 @@ This is purely educational for better understanding on how to work with `C` lang
 ### Quick start
 
 ```console
-$ cc -o main main.c
+$ make
 $ ./main 68 70 + 2 /
 ```
